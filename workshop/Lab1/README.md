@@ -99,4 +99,4 @@ and thus stop taking the course.
   2. To remove the service, use `$ kubectl delete service guestbook`.
 
 You should now go back up to the root of the repository in preparation
-for [Lab 2](../Lab2/README.md), by running: `$ cd ..`.
+for [Lab 2](../Lab2/README.md), by running: `$ cd ..`
