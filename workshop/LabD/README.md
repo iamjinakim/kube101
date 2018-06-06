@@ -1,4 +1,4 @@
-# Optional Debugging Lab - Tips and Tricks for Debugging Applications in Kubernetes
+Test# Optional Debugging Lab - Tips and Tricks for Debugging Applications in Kubernetes
 
 Advanced debugging techniques to reach your pods.
 
